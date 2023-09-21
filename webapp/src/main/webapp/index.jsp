@@ -14,7 +14,7 @@
      <br>
     
      <label for="Mother Name"><b>New <label for="Mother Name"><b>Mother Name</b></label>
-    <input type="text" placeholder="Enter Name" name="Name" id="name" required>
+    <input type="text" placeholder="Enter Name" name="Mother Name" id="mother name" required>
      <br>
 
     <label for="psw"><b>Password</b></label>
