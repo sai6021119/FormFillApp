@@ -12,6 +12,10 @@
       <label for="Name"><b>New <label for="Name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="name" required>
      <br>
+    
+     <label for="Mother Name"><b>New <label for="Mother Name"><b>Mother Name</b></label>
+    <input type="text" placeholder="Enter Name" name="Name" id="name" required>
+     <br>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
